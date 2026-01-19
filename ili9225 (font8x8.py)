@@ -2,6 +2,13 @@
 #그렇기에 이 파일에는 모든 알파벳과 숫자, 기호를 사용할수 있게 해줍니다
 #이 파일도 저장 --> ~~(으로)저장 ---> micropython 장치 저장 --> font8x8.py 라고 이름을 지으세요
 
+--------------------------------------------------------------------------------------------------
+#The ili9225 does not support a basic built-in font.
+#Therefore, to display "hi", you must define the letters h and i as shown below.
+#For this reason, this file allows you to use all alphabets, numbers, and symbols.
+#Save this file --> Save As --> Save to MicroPython device --> Name it font8x8.py
+
+
 
 
 
